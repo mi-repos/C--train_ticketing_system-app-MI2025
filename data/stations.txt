@@ -1,0 +1,17 @@
+Paddington,1
+King's Cross,1
+Waterloo,1
+Victoria,1
+Liverpool Street,1
+Bank,1
+Canary Wharf,2
+Greenwich,2
+Hammersmith,2
+Kensington,2
+Ealing,3
+Wimbledon,3
+Stratford,3
+Croydon,4
+Wembley,4
+Heathrow,6
+Gatwick,6
